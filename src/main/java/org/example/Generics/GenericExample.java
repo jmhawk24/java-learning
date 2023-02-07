@@ -48,8 +48,7 @@ class JacobGenUsage {
         jacobGenList.add(horseGen);
         jacobGenList.add(monsterGen);
 
-        for (JacobGen<SuspiciousCreature> creature: jacobGenList
-             ) {
+        for (JacobGen<SuspiciousCreature> creature: jacobGenList) {
             System.out.println("The verdict on whether the gen you've got there is a horse: " +
                     creature.getJacob().isAHorse());
         }
