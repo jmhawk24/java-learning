@@ -1,0 +1,5 @@
+Possible use cases for a LinkedList:
+Stops on a public transit line
+stages of application process
+Floors of a building
+Age (although the end of the list wouldn't be known until you die)
